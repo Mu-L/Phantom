@@ -1,5 +1,5 @@
 # 幻影（Phantom）SRC漏洞挖掘辅助工具
-Tips：由于这个项目刚刚开始，所以可能会有一些bug，师傅们可以提Issues哦，我们都会尽快处理的~
+Tips：由于这个项目刚刚开始，所以可能会有一些bug，师傅们可以提Issues哦，或者加群1026163188，我们都会尽快处理的~
 
 一款面向 SRC 场景的浏览器扩展），自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置。
 
@@ -180,7 +180,6 @@ host_permissions: <all_urls>
     - [https://blog.h-acker.cn/](https://blog.h-acker.cn/)
     - [https://www.hdsec.cn/](https://www.hdsec.cn/)
 + 开源地址：[https://github.com/Team-intN18-SoybeanSeclab/Phantom/](https://github.com/Team-intN18-SoybeanSeclab/Phantom/)
-+ 有问题可以提issue或者加群联系1026163188
 + 致谢个人/团体/工具：D3f4ultX、findsomething、SnowEyes，FakeCryptoJS
 + 致谢媒体：隼目安全、知攻善防实验室、零羊Web
 
