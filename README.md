@@ -180,7 +180,8 @@ host_permissions: <all_urls>
     - [https://blog.h-acker.cn/](https://blog.h-acker.cn/)
     - [https://www.hdsec.cn/](https://www.hdsec.cn/)
 + 开源地址：[https://github.com/Team-intN18-SoybeanSeclab/Phantom/](https://github.com/Team-intN18-SoybeanSeclab/Phantom/)
-+ 致谢个人/团体/工具：D3f4ultX、findsomething、SnowEyes
++ 有问题可以提issue或者加群联系1026163188
++ 致谢个人/团体/工具：D3f4ultX、findsomething、SnowEyes，FakeCryptoJS
 + 致谢媒体：隼目安全、知攻善防实验室、零羊Web
 
 ## 宣传文章
