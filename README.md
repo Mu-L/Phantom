@@ -181,14 +181,16 @@ host_permissions: <all_urls>
     - [https://www.hdsec.cn/](https://www.hdsec.cn/)
 + 开源地址：[https://github.com/Team-intN18-SoybeanSeclab/Phantom/](https://github.com/Team-intN18-SoybeanSeclab/Phantom/)
 + 致谢个人/团体/工具：D3f4ultX、findsomething、SnowEyes，FakeCryptoJS
-+ 致谢媒体：隼目安全、知攻善防实验室、零羊Web
++ 致谢媒体：隼目安全、知攻善防实验室、零羊Web，荧惑安全
 
 ## 宣传文章
 URL：[https://mp.weixin.qq.com/s/FrUeZ9VYk6EP1EEikpwfzQ](https://mp.weixin.qq.com/s/FrUeZ9VYk6EP1EEikpwfzQ)
-
+[https://mp.weixin.qq.com/s/OLwNeUBGxKzC3ZsjvAsYFQ](https://mp.weixin.qq.com/s/OLwNeUBGxKzC3ZsjvAsYFQ)
 
 
 > 来自: [Team-intN18-SoybeanSeclab/Phantom: 一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置](https://github.com/Team-intN18-SoybeanSeclab/Phantom/)
+>
+> [b站视频](https://b23.tv/moM9mus)
 
 
 
